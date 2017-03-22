@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SlidingFragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_first_fragment">First fragment</string>
+    <string name="hello_second_fragment">Second blank fragment</string>
+    <string name="hello_third_fragment">Third fragment</string>
+</resources>
